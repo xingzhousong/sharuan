@@ -66,7 +66,7 @@ Fortunately after changing my IP address ,this problem is solved. Next
 
 Eventually, I restart this whole process as before. Making a fresh start is a incredibly good way to solve computer problem in some way. These are successful pictures taken by my cell in that I am unable to use shortcut key in Linux.
 
-<img src="C:/Users/sxz/AppData/Roaming/Typora/typora-user-images/image-20220914112202004.png" alt="image-20220914112202004" style="zoom: 25%;" />
+<img src="https://raw.githubusercontent.com/Charles-Google/sharuan/picture/img/202209141539799.png" alt="image-20220914112202004" style="zoom: 25%;" />
 
 <img src="https://raw.githubusercontent.com/Charles-Google/sharuan/picture/img/202209141123142.png" alt="image-20220914112304273" style="zoom:33%;" />
 
@@ -80,7 +80,7 @@ This is my first time to know that ability to self-study and gather information 
 
 In other wise, I also appreciate that having a clear train of thought is the most important thing to tackle trouble and debug. By the way, restart is a universal method to any mistake in some way.   —_—||
 
-#                    Jo Tang, I'm coming.
+#                    Jo Tang, I'm coming!!!
 
 [^1]: Because changing my input method again and again has driven me crazy mostly and I also want to suit the full English environment in advance.(My English needs more practice indeed.)
 [^2]: It means following the course on the Internet.
